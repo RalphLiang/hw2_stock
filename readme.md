@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ycliang1111/4a35ea82-c3ed-4bbc-9dd3-6240d1a44ba4/e2c62474-c836-406c-aca1-4e587202d924/_apis/work/boardbadge/03936755-26e3-466f-99fc-66c5b0b3c8db)](https://dev.azure.com/ycliang1111/4a35ea82-c3ed-4bbc-9dd3-6240d1a44ba4/_boards/board/t/e2c62474-c836-406c-aca1-4e587202d924/Microsoft.RequirementCategory)
 # hw2_stock
 
 1. 完成訓練後保存output結果，更改**檔名學號**，左上角 檔案->下載 成ipynb檔。
